@@ -3,4 +3,7 @@
     <string name="textoGrados">23°</string>
     <string name="textoCiudad">Ciudad de México</string>
     <string name="textoEstado">Nnublado</string>
+    <string name="textoBienvenida">Bienenido a mi app del clima para poder ver el clima de una ciudad selecciona en la opción de abajo</string>
+    <string name="textoBtnMMexico">Clima de la cudad de México</string>
+    <string name="textoBtnMBerlin">Clima de la cudad de Berlin</string>
 </resources>
